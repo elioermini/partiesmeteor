@@ -1,4 +1,4 @@
-/*// All Tomorrow's Parties -- client
+// All Tomorrow's Parties -- client
 
 Meteor.subscribe("directory");
 Meteor.subscribe("parties");
@@ -275,5 +275,3 @@ Template.inviteDialog.uninvited = function () {
 Template.inviteDialog.displayName = function () {
   return displayName(this);
 };
-
-*/
